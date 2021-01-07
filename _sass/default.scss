@@ -105,7 +105,7 @@ h1, h2 {
   top: 0px;
   bottom: 0px;
   border-right: 4px solid;
-  background-color: crimson;
+  background-color: #5c6bc0;
 
   li {
     list-style: none;
@@ -138,15 +138,15 @@ h1, h2 {
     -moz-border-radius: 20px;
     -webkit-border-radius: 20px;
     padding: 5px 10px;
-    border: 5px solid #E6E6E6;
-    color: #E6E6E6;
+    border: 5px solid #cccccc;
+    color: #cccccc;
     font-weight:bold;
     font-size:110%;
     display: inline-block;
 
     &:hover {
-      border: 5px solid #000;
-      color: #000;
+      border: 5px solid #ffffff;
+      color: #ffffff;
     }
   }
 }
