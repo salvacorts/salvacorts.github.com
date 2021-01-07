@@ -99,7 +99,7 @@ h1 a, h2 a {
 .sidebar {
   top: 0px;
   bottom: 0px;
-  background-color: #5c6bc0;
+  background-color: #303f9f;
 }
 .sidebar li {
   list-style: none;
@@ -137,11 +137,12 @@ h1 a, h2 a {
   -moz-border-radius: 20px;
   -webkit-border-radius: 20px;
   padding: 5px 10px;
-  border: 5px solid #f2f2f2;
-  color: #f2f2f2;
+  border: 5px solid #f0f0f0;
+  color: #f0f0f0;
   font-weight: bold;
   font-size: 110%;
   display: inline-block;
+  width: 30%;
 }
 #navigation a:hover {
   border: 5px solid #ffffff;
