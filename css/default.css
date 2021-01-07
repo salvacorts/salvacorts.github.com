@@ -99,7 +99,6 @@ h1 a, h2 a {
 .sidebar {
   top: 0px;
   bottom: 0px;
-  border-right: 4px solid;
   background-color: #5c6bc0;
 }
 .sidebar li {
@@ -126,16 +125,20 @@ h1 a, h2 a {
   padding: 0px 10px;
 }
 
+#navigation {
+  margin: 0 0 0 0;
+}
 #navigation li {
   margin: 10px 0px;
+  text-align: center;
 }
 #navigation a {
   border-radius: 20px;
   -moz-border-radius: 20px;
   -webkit-border-radius: 20px;
   padding: 5px 10px;
-  border: 5px solid #cccccc;
-  color: #cccccc;
+  border: 5px solid #f2f2f2;
+  color: #f2f2f2;
   font-weight: bold;
   font-size: 110%;
   display: inline-block;
