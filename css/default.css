@@ -23,8 +23,8 @@ h1, h2 {
 }
 
 h2.site-title {
-  letter-spacing: 10px;
   text-align: center;
+  color: #ffffff;
 }
 
 h3 {
