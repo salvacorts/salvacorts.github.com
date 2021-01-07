@@ -105,6 +105,7 @@ h1, h2 {
   top: 0px;
   bottom: 0px;
   border-right: 4px solid;
+  background-color: crimson;
 
   li {
     list-style: none;
@@ -129,8 +130,6 @@ h1, h2 {
 }
 
 #navigation {
-    background-color: cadetblue;
-
   li {
     margin: 10px 0px;
   }
