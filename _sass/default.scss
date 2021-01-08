@@ -168,6 +168,10 @@ h1, h2 {
     bottom: 0;
     left: 0;
     right: 0;
+
+    a {
+        border-bottom: 0px;
+    }
 }
 
 @media (max-width: 767px) {
