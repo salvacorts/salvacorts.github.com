@@ -110,6 +110,10 @@ h1 a, h2 a {
 
 .avatar {
   border-radius: 50%;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .well {
@@ -133,11 +137,8 @@ h1 a, h2 a {
   text-align: center;
 }
 #navigation a {
-  border-radius: 20px;
-  -moz-border-radius: 20px;
-  -webkit-border-radius: 20px;
   padding: 5px 10px;
-  border: 5px solid #f0f0f0;
+  border-bottom: 3px solid #f0f0f0;
   color: #f0f0f0;
   font-weight: bold;
   font-size: 110%;
