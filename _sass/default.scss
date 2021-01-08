@@ -160,6 +160,11 @@ h1, h2 {
     }
 }
 
+.footer {
+    position: absolute;
+    bottom: 0;
+}
+
 @media (max-width: 767px) {
     .sidebar.affix {
         position: relative;
