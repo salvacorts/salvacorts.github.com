@@ -99,6 +99,8 @@ h1 a, h2 a {
 .sidebar {
   top: 0px;
   bottom: 0px;
+  left: 0px;
+  margin-left: 0;
   background-color: #1a237e;
 }
 .sidebar li {
@@ -146,7 +148,7 @@ h1 a, h2 a {
   width: 30%;
 }
 #navigation a:hover {
-  border: 5px solid #ffffff;
+  border-bottom: 3px solid #ffffff;
   color: #ffffff;
 }
 

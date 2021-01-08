@@ -104,6 +104,9 @@ h1, h2 {
 .sidebar {
     top: 0px;
     bottom: 0px;
+    left: 0px;
+    margin-left: 0;
+
     background-color: #1a237e;
 
     li {
@@ -154,7 +157,7 @@ h1, h2 {
         width: 30%;
 
         &:hover {
-            border: 5px solid #ffffff;
+            border-bottom: 3px solid #ffffff;
             color: #ffffff;
         }
     }
